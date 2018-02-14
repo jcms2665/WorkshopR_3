@@ -9,7 +9,6 @@ Fecha: 14 de febrero
 ### TEMARIO
 
 + Repaso de R
-+ Mapas temáticos
 + Índice de mooran
 + Análisis LISA
 + Correlaciones estadísticas
