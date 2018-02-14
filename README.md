@@ -17,8 +17,6 @@ Fecha: 14 de febrero
 
 ### BIBLIOGRAFÍA
 
-Lecturas
-
 Goodchild, Michael F. “_Twenty years of progress: GIScience in 2010._” Journal of spatial information science 1 (2015): 3-20.
 
 Grimes, David IF, and Eulogio Pardo Igúzquiza. “_Geostatistical Analysis of Rainfall_” Geographical Analysis 42.2 (2010): 136-160.
